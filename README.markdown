@@ -130,7 +130,7 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For issues or suggestions, open an issue on GitHub or email your-email@example.com.
+For issues or suggestions, open an issue on GitHub or email vaswal919@gmail.com
 
 ## Acknowledgments
 - Built with scikit-learn and XGBoost.
